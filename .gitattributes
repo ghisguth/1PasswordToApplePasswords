@@ -1,0 +1,8 @@
+*.cs text eol=lf
+*.json text eol=lf
+*.targets text eol=lf
+*.props text eol=lf
+*.csproj text eol=lf
+*.proj text eol=lf
+.gitattributes text eol=lf
+.editorconfig text eol=lf
